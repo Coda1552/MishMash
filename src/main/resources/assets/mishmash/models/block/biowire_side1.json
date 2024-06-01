@@ -1,0 +1,6 @@
+{
+  "parent": "mishmash:block/biowire_side",
+  "textures": {
+    "line": "mishmash:block/biowire_line1"
+  }
+}

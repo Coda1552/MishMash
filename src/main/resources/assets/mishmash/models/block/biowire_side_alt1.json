@@ -1,0 +1,6 @@
+{
+  "parent": "':block/biowire_side_alt",
+  "textures": {
+    "line": "':block/biowire_line1"
+  }
+}
